@@ -1,0 +1,12 @@
+1.	Understanding Asymptotic Notation:
+Big O notation describes how an algorithm’s running time grows with input size.
+Linear Search:
+  O(n) Time Complexity
+Binary Search:
+  O(log n) Time Complexity
+
+2.  Suitable Algorithm:
+For this particular problem, since our goal is to achieve efficiency we can use Binary Search.
+
+
+
