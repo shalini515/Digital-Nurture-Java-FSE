@@ -1,4 +1,4 @@
-package week1.designprinciples.mandatory.exercise2;
+package week1.dsa.mandatory.exercise2;
 
 import java.util.Arrays;
 import java.util.Comparator;
